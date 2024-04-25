@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\bin\Debug\net8.0\Haaste1(blackjack).exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\bin\Debug\net8.0\Haaste1(blackjack).deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\bin\Debug\net8.0\Haaste1(blackjack).runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\bin\Debug\net8.0\Haaste1(blackjack).dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\bin\Debug\net8.0\Haaste1(blackjack).pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\Haaste1(blackjack).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\Haaste1(blackjack).AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\Haaste1(blackjack).AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\Haaste1(blackjack).csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\Haaste1(blackjack).dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\refint\Haaste1(blackjack).dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\Haaste1(blackjack).pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\Haaste1(blackjack).genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Haaste1(blackjack)\obj\Debug\net8.0\ref\Haaste1(blackjack).dll
