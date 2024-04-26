@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Haaste1(blackjack)/1.0.0": {
+        "runtime": {
+          "Haaste1(blackjack).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Haaste1(blackjack)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
