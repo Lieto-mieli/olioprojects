@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ohjelmoitava robotti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25485C0F-8EC2-4AD2-B4B1-D31675DE8AFF}|Ohjelmoitava robotti.csproj|c:\\users\\s2200847\\onedrive - business college helsinki\\visual studio projektit\\ohjelmoitava robotti\\lerobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25485C0F-8EC2-4AD2-B4B1-D31675DE8AFF}|Ohjelmoitava robotti.csproj|solutionrelative:lerobot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25485C0F-8EC2-4AD2-B4B1-D31675DE8AFF}|Ohjelmoitava robotti.csproj|c:\\users\\s2200847\\onedrive - business college helsinki\\visual studio projektit\\ohjelmoitava robotti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25485C0F-8EC2-4AD2-B4B1-D31675DE8AFF}|Ohjelmoitava robotti.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ohjelmoitava robotti\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ohjelmoitava robotti\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:56:46.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeRobot.cs",
+              "DocumentMoniker": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ohjelmoitava robotti\\LeRobot.cs",
+              "RelativeDocumentMoniker": "LeRobot.cs",
+              "ToolTip": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ohjelmoitava robotti\\LeRobot.cs",
+              "RelativeToolTip": "LeRobot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:57:38.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

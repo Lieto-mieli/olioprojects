@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\bin\Debug\net8.0\Ohjelmoitava robotti.exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\bin\Debug\net8.0\Ohjelmoitava robotti.deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\bin\Debug\net8.0\Ohjelmoitava robotti.runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\bin\Debug\net8.0\Ohjelmoitava robotti.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\bin\Debug\net8.0\Ohjelmoitava robotti.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\Ohjelmoitava robotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\Ohjelmoitava robotti.AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\Ohjelmoitava robotti.AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\Ohjelmoitava robotti.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\Ohjelmoitava robotti.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\refint\Ohjelmoitava robotti.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\Ohjelmoitava robotti.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\Ohjelmoitava robotti.genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ohjelmoitava robotti\obj\Debug\net8.0\ref\Ohjelmoitava robotti.dll

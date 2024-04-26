@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\bin\Debug\net8.0\Taikamiekkoja.exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\bin\Debug\net8.0\Taikamiekkoja.deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\bin\Debug\net8.0\Taikamiekkoja.runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\bin\Debug\net8.0\Taikamiekkoja.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\bin\Debug\net8.0\Taikamiekkoja.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\Taikamiekkoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\Taikamiekkoja.AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\Taikamiekkoja.AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\Taikamiekkoja.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\Taikamiekkoja.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\refint\Taikamiekkoja.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\Taikamiekkoja.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\Taikamiekkoja.genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Taikamiekkoja\obj\Debug\net8.0\ref\Taikamiekkoja.dll

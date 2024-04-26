@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\bin\Debug\net8.0\Nelilaskin.exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\bin\Debug\net8.0\Nelilaskin.deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\bin\Debug\net8.0\Nelilaskin.runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\bin\Debug\net8.0\Nelilaskin.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\bin\Debug\net8.0\Nelilaskin.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\Nelilaskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\Nelilaskin.AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\Nelilaskin.AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\Nelilaskin.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\Nelilaskin.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\refint\Nelilaskin.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\Nelilaskin.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\Nelilaskin.genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Nelilaskin\obj\Debug\net8.0\ref\Nelilaskin.dll

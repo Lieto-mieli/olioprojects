@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\bin\Debug\net8.0\Parannellut metodit lukujen lukemiseen.exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\bin\Debug\net8.0\Parannellut metodit lukujen lukemiseen.deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\bin\Debug\net8.0\Parannellut metodit lukujen lukemiseen.runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\bin\Debug\net8.0\Parannellut metodit lukujen lukemiseen.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\bin\Debug\net8.0\Parannellut metodit lukujen lukemiseen.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\Parannellut metodit lukujen lukemiseen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\Parannellut metodit lukujen lukemiseen.AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\Parannellut metodit lukujen lukemiseen.AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\Parannellut metodit lukujen lukemiseen.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\Parannellut metodit lukujen lukemiseen.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\refint\Parannellut metodit lukujen lukemiseen.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\Parannellut metodit lukujen lukemiseen.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\Parannellut metodit lukujen lukemiseen.genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Parannellut metodit lukujen lukemiseen\obj\Debug\net8.0\ref\Parannellut metodit lukujen lukemiseen.dll

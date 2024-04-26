@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\valitseateria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\valitseateria.AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\valitseateria.AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\valitseateria.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\bin\Debug\net8.0\valitseateria.exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\bin\Debug\net8.0\valitseateria.deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\bin\Debug\net8.0\valitseateria.runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\bin\Debug\net8.0\valitseateria.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\bin\Debug\net8.0\valitseateria.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\valitseateria.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\refint\valitseateria.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\valitseateria.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\valitseateria.genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\valitseateria\obj\Debug\net8.0\ref\valitseateria.dll

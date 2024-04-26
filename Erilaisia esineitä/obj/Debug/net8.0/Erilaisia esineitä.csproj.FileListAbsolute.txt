@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\bin\Debug\net8.0\Erilaisia esineitä.exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\bin\Debug\net8.0\Erilaisia esineitä.deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\bin\Debug\net8.0\Erilaisia esineitä.runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\bin\Debug\net8.0\Erilaisia esineitä.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\bin\Debug\net8.0\Erilaisia esineitä.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\Erilaisia esineitä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\Erilaisia esineitä.AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\Erilaisia esineitä.AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\Erilaisia esineitä.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\Erilaisia esineitä.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\refint\Erilaisia esineitä.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\Erilaisia esineitä.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\Erilaisia esineitä.genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Erilaisia esineitä\obj\Debug\net8.0\ref\Erilaisia esineitä.dll

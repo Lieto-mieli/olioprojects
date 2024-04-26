@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Taikamiekkoja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84A16EE7-34A8-41FC-801C-6D9A2E1B21B2}|Taikamiekkoja.csproj|c:\\users\\s2200847\\onedrive - business college helsinki\\visual studio projektit\\taikamiekkoja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84A16EE7-34A8-41FC-801C-6D9A2E1B21B2}|Taikamiekkoja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Taikamiekkoja\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Taikamiekkoja\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAuwGYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:18:42.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

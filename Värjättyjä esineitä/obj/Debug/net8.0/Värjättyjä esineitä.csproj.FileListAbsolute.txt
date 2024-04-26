@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\Värjättyjä esineitä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\Värjättyjä esineitä.AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\Värjättyjä esineitä.AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\Värjättyjä esineitä.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\bin\Debug\net8.0\Värjättyjä esineitä.exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\bin\Debug\net8.0\Värjättyjä esineitä.deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\bin\Debug\net8.0\Värjättyjä esineitä.runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\bin\Debug\net8.0\Värjättyjä esineitä.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\bin\Debug\net8.0\Värjättyjä esineitä.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\Värjättyjä esineitä.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\refint\Värjättyjä esineitä.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\Värjättyjä esineitä.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\Värjättyjä esineitä.genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Värjättyjä esineitä\obj\Debug\net8.0\ref\Värjättyjä esineitä.dll

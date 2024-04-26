@@ -1,0 +1,14 @@
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\Puhelinluettelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\Puhelinluettelo.AssemblyInfoInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\Puhelinluettelo.AssemblyInfo.cs
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\Puhelinluettelo.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\bin\Debug\net8.0\Puhelinluettelo.exe
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\bin\Debug\net8.0\Puhelinluettelo.deps.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\bin\Debug\net8.0\Puhelinluettelo.runtimeconfig.json
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\bin\Debug\net8.0\Puhelinluettelo.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\bin\Debug\net8.0\Puhelinluettelo.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\Puhelinluettelo.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\refint\Puhelinluettelo.dll
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\Puhelinluettelo.pdb
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\Puhelinluettelo.genruntimeconfig.cache
+C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Puhelinluettelo\obj\Debug\net8.0\ref\Puhelinluettelo.dll
