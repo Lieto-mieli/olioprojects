@@ -12,3 +12,18 @@ C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\A
 C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ajastin\obj\Debug\net8.0\Ajastin.pdb
 C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ajastin\obj\Debug\net8.0\Ajastin.genruntimeconfig.cache
 C:\Users\s2200847\OneDrive - Business College Helsinki\visual studio projektit\Ajastin\obj\Debug\net8.0\ref\Ajastin.dll
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\Ajastin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\Ajastin.AssemblyInfoInputs.cache
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\Ajastin.AssemblyInfo.cs
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\Ajastin.csproj.CoreCompileInputs.cache
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\Ajastin.sourcelink.json
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\Ajastin.dll
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\refint\Ajastin.dll
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\Ajastin.pdb
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\bin\Debug\net8.0\Ajastin.exe
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\bin\Debug\net8.0\Ajastin.deps.json
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\bin\Debug\net8.0\Ajastin.runtimeconfig.json
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\bin\Debug\net8.0\Ajastin.dll
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\bin\Debug\net8.0\Ajastin.pdb
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\Ajastin.genruntimeconfig.cache
+C:\Users\s2200847\Desktop\olioprojects\Ajastin\obj\Debug\net8.0\ref\Ajastin.dll

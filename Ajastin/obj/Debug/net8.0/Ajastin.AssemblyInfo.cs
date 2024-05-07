@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ajastin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9865e689524f8d5a5c029e80a54c51557f079d59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ajastin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ajastin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

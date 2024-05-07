@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ajastin\\Ajastin.csproj": {}
+    "C:\\Users\\s2200847\\Desktop\\olioprojects\\Ajastin\\Ajastin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ajastin\\Ajastin.csproj": {
+    "C:\\Users\\s2200847\\Desktop\\olioprojects\\Ajastin\\Ajastin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ajastin\\Ajastin.csproj",
+        "projectUniqueName": "C:\\Users\\s2200847\\Desktop\\olioprojects\\Ajastin\\Ajastin.csproj",
         "projectName": "Ajastin",
-        "projectPath": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ajastin\\Ajastin.csproj",
+        "projectPath": "C:\\Users\\s2200847\\Desktop\\olioprojects\\Ajastin\\Ajastin.csproj",
         "packagesPath": "C:\\Users\\s2200847\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\visual studio projektit\\Ajastin\\obj\\",
+        "outputPath": "C:\\Users\\s2200847\\Desktop\\olioprojects\\Ajastin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s2200847\\AppData\\Roaming\\NuGet\\NuGet.Config",

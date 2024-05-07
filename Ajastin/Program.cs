@@ -1,25 +1,38 @@
-﻿using Microsoft.VisualBasic;
-
-internal class Program
+﻿internal class Program
 {
     static void Main()
     {
-        DateTime start;
-        DateTime end;
-    Console.WriteLine("Press enter to begin timer");
-    switch (Console.ReadLine())
+        Ajastin ajastin = new Ajastin();
+        Console.WriteLine("Press 1 to begin timer and 2 to end timer");
+        while (true)
         {
-            default:
-                start = DateTime.Now;
-                break;
+            switch (Console.ReadLine())
+            {
+                case "1":
+                    ajastin.Aloita();
+                    Console.WriteLine("timer has started!");
+                    break;
+                case "2":
+                    ajastin.Pysäytä();
+                    break;
+                default:
+                    Console.WriteLine("Press 1 to begin timer and 2 to end timer");
+                    break;
+            }
         }
-    Console.WriteLine("Press enter to end timer");
-    switch (Console.ReadLine())
-        {
-            default:
-                end = DateTime.Now;
-                break;
-        }
-    Console.WriteLine(end.Subtract(start));
+    }
+}
+class Ajastin
+{
+    DateTime start;
+    DateTime end;
+    public void Aloita()
+    {
+        start = DateTime.Now;
+    }
+    public void Pysäytä()
+    {
+        end = DateTime.Now;
+        Console.WriteLine($"elapsed time is: {end.Subtract(start)}");
     }
 }
